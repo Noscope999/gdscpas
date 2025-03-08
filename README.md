@@ -92,7 +92,7 @@ s 0x000013b7
 wa nop
 ```
 ```
-0x000013d8
+s 0x000013d8
 wa nop
 ```
 s being seek, seeking to that memory address - and nop (no operation) essentially overriding that lines execution.
